@@ -1,2 +1,2 @@
-# java-criando-primeira-aplicacao
+# Java
 Exemplos do curso "Java: Criando a sua primeira aplicação" da Alura
